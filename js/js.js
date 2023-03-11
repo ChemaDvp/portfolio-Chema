@@ -27,7 +27,6 @@ btOscuro.addEventListener("click", function(){
 })
 
 
-
 function filtrarProyectos() {
     
     const selectFiltro = document.getElementById("filtro");
